@@ -1,1 +1,1 @@
-#!/bin/bash  echo 'School'
+#!/bin/basho echo "The school is open!" 
